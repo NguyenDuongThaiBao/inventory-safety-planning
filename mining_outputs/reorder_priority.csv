@@ -1,0 +1,44 @@
+ProductID,ProductName,CategoryName,Segment,TotalOnHand,CurrSafetyStock,Forecast_3M,ProjectedStock,ReorderQty
+711,"Sport-100 Helmet, Blue",Accessories,Large buffer above safety stock,216,4,1158.7,-942.7,947.0
+712,AWC Logo Cap,Clothing,Large buffer above safety stock,288,4,1217.9,-929.9,934.0
+707,"Sport-100 Helmet, Red",Accessories,Large buffer above safety stock,288,4,1113.9,-825.9,830.0
+708,"Sport-100 Helmet, Black",Accessories,Large buffer above safety stock,324,4,1110.8,-786.8,791.0
+859,"Half-Finger Gloves, M",Clothing,Below safety stock - replenish,0,4,520.1,-520.1,524.0
+715,"Long-Sleeve Logo Jersey, L",Clothing,Large buffer above safety stock,216,4,700.7,-484.7,489.0
+782,"Mountain-200 Black, 38",Bikes,Slow-moving (over 6 months of stock),188,100,411.2,-223.2,323.0
+779,"Mountain-200 Silver, 38",Bikes,Slow-moving (over 6 months of stock),137,100,358.4,-221.4,321.0
+783,"Mountain-200 Black, 42",Bikes,Slow-moving (over 6 months of stock),148,100,359.2,-211.2,311.0
+714,"Long-Sleeve Logo Jersey, M",Clothing,Large buffer above safety stock,180,4,434.0,-254.0,258.0
+784,"Mountain-200 Black, 46",Bikes,Slow-moving (over 6 months of stock),137,100,294.0,-157.0,257.0
+781,"Mountain-200 Silver, 46",Bikes,Slow-moving (over 6 months of stock),140,100,293.7,-153.7,254.0
+860,"Half-Finger Gloves, L",Clothing,Large buffer above safety stock,36,4,263.4,-227.4,231.0
+801,"Road-550-W Yellow, 48",Bikes,Slow-moving (over 6 months of stock),134,100,212.3,-78.3,178.0
+780,"Mountain-200 Silver, 42",Bikes,Slow-moving (over 6 months of stock),223,100,293.5,-70.5,170.0
+798,"Road-550-W Yellow, 40",Bikes,Slow-moving (over 6 months of stock),133,100,190.7,-57.7,158.0
+797,"Road-550-W Yellow, 38",Bikes,Slow-moving (over 6 months of stock),148,100,204.0,-56.0,156.0
+800,"Road-550-W Yellow, 44",Bikes,Slow-moving (over 6 months of stock),129,100,131.3,-2.3,102.0
+793,"Road-250 Black, 44",Bikes,Slow-moving (over 6 months of stock),134,100,134.5,-0.5,100.0
+794,"Road-250 Black, 48",Bikes,Slow-moving (over 6 months of stock),165,100,149.5,15.5,84.0
+799,"Road-550-W Yellow, 42",Bikes,Slow-moving (over 6 months of stock),227,100,178.8,48.2,52.0
+796,"Road-250 Black, 58",Bikes,Slow-moving (over 6 months of stock),148,100,93.1,54.9,45.0
+795,"Road-250 Black, 52",Bikes,Slow-moving (over 6 months of stock),188,100,113.1,74.9,25.0
+716,"Long-Sleeve Logo Jersey, XL",Clothing,Large buffer above safety stock,252,4,260.7,-8.7,13.0
+759,"Road-650 Red, 58",Bikes,No recent sales,163,100,0.0,163.0,0.0
+748,"HL Mountain Frame - Silver, 38",Components,Slow-moving (over 6 months of stock),738,500,114.5,623.5,0.0
+747,"HL Mountain Frame - Black, 38",Components,Slow-moving (over 6 months of stock),834,500,68.9,765.1,0.0
+760,"Road-650 Red, 60",Bikes,Slow-moving (over 6 months of stock),185,100,3.0,182.0,0.0
+769,"Road-650 Black, 48",Bikes,Slow-moving (over 6 months of stock),133,100,0.0,133.0,0.0
+770,"Road-650 Black, 52",Bikes,Slow-moving (over 6 months of stock),227,100,0.0,227.0,0.0
+764,"Road-650 Red, 52",Bikes,No recent sales,140,100,0.0,140.0,0.0
+765,"Road-650 Black, 58",Bikes,Slow-moving (over 6 months of stock),134,100,0.5,133.5,0.0
+766,"Road-650 Black, 60",Bikes,No recent sales,165,100,0.0,165.0,0.0
+767,"Road-650 Black, 62",Bikes,No recent sales,188,100,0.0,188.0,0.0
+768,"Road-650 Black, 44",Bikes,No recent sales,148,100,0.0,148.0,0.0
+762,"Road-650 Red, 44",Bikes,Slow-moving (over 6 months of stock),137,100,1.7,135.3,0.0
+761,"Road-650 Red, 62",Bikes,Slow-moving (over 6 months of stock),148,100,1.2,146.8,0.0
+763,"Road-650 Red, 48",Bikes,Slow-moving (over 6 months of stock),223,100,0.5,222.5,0.0
+792,"Road-250 Red, 58",Bikes,Slow-moving (over 6 months of stock),227,100,87.5,139.5,0.0
+809,ML Mountain Handlebars,Components,Slow-moving (over 6 months of stock),850,500,141.3,708.7,0.0
+808,LL Mountain Handlebars,Components,Slow-moving (over 6 months of stock),859,500,86.1,772.9,0.0
+858,"Half-Finger Gloves, S",Clothing,Large buffer above safety stock,324,4,316.1,7.9,0.0
+822,"ML Road Frame-W - Yellow, 38",Components,Slow-moving (over 6 months of stock),796,500,81.1,714.9,0.0

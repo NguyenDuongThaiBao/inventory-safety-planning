@@ -1,0 +1,4 @@
+Cluster,Products,MedianCoverage,MedianDaysOfSupply,AvgInventoryValue,Segment
+0,3,0.0,0.0,0.0,Below safety stock - replenish
+1,38,10.0,50.01,3797.4,Large buffer above safety stock
+2,119,1.54,199.81,98008.08,Slow-moving (over 6 months of stock)

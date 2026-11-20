@@ -1,0 +1,433 @@
+ProductID,ProductName,CategoryName,Segment,CurrSafetyStock,SS_Statistical,SS_Gap,CurrReorderPoint,ROP_Statistical,ROP_Gap,AvgDaily,SdDaily,LeadDays,LeadTimeIssue
+1,Adjustable Race,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+2,Bearing Ball,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+3,BB Ball Bearing,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+4,Headset Ball Bearings,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+316,Blade,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+317,LL Crankarm,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+318,ML Crankarm,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+319,HL Crankarm,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+320,Chainring Bolts,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+321,Chainring Nut,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+322,Chainring,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+323,Crown Race,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+324,Chain Stays,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,1.0,0
+325,Decal 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+326,Decal 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+327,Down Tube,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+328,Mountain End Caps,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,1.0,0
+329,Road End Caps,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,1.0,0
+330,Touring End Caps,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,1.0,0
+331,Fork End,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+332,Freewheel,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+341,Flat Washer 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+342,Flat Washer 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+343,Flat Washer 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+344,Flat Washer 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+345,Flat Washer 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+346,Flat Washer 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+347,Flat Washer 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+348,Flat Washer 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+349,Flat Washer 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+350,Fork Crown,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+351,Front Derailleur Cage,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+352,Front Derailleur Linkage,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+355,Guide Pulley,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+356,LL Grip Tape,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+357,ML Grip Tape,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+358,HL Grip Tape,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+359,Thin-Jam Hex Nut 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+360,Thin-Jam Hex Nut 10,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+361,Thin-Jam Hex Nut 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+362,Thin-Jam Hex Nut 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+363,Thin-Jam Hex Nut 15,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+364,Thin-Jam Hex Nut 16,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+365,Thin-Jam Hex Nut 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+366,Thin-Jam Hex Nut 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+367,Thin-Jam Hex Nut 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+368,Thin-Jam Hex Nut 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+369,Thin-Jam Hex Nut 13,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+370,Thin-Jam Hex Nut 14,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+371,Thin-Jam Hex Nut 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+372,Thin-Jam Hex Nut 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+373,Thin-Jam Hex Nut 12,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+374,Thin-Jam Hex Nut 11,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+375,Hex Nut 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+376,Hex Nut 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+377,Hex Nut 16,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+378,Hex Nut 17,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+379,Hex Nut 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+380,Hex Nut 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+381,Hex Nut 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+382,Hex Nut 22,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+383,Hex Nut 23,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+384,Hex Nut 12,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+385,Hex Nut 13,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+386,Hex Nut 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+387,Hex Nut 10,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+388,Hex Nut 11,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+389,Hex Nut 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+390,Hex Nut 20,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+391,Hex Nut 21,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+392,Hex Nut 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+393,Hex Nut 14,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+394,Hex Nut 15,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+395,Hex Nut 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+396,Hex Nut 18,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+397,Hex Nut 19,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+398,Handlebar Tube,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+399,Head Tube,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+400,LL Hub,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+401,HL Hub,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+402,Keyed Washer,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+403,External Lock Washer 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+404,External Lock Washer 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+405,External Lock Washer 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+406,External Lock Washer 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+407,External Lock Washer 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+408,External Lock Washer 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+409,External Lock Washer 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+410,External Lock Washer 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+411,External Lock Washer 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+412,Internal Lock Washer 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+413,Internal Lock Washer 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+414,Internal Lock Washer 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+415,Internal Lock Washer 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+416,Internal Lock Washer 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+417,Internal Lock Washer 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+418,Internal Lock Washer 10,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+419,Internal Lock Washer 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+420,Internal Lock Washer 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+421,Internal Lock Washer 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+422,Thin-Jam Lock Nut 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+423,Thin-Jam Lock Nut 10,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+424,Thin-Jam Lock Nut 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+425,Thin-Jam Lock Nut 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+426,Thin-Jam Lock Nut 15,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+427,Thin-Jam Lock Nut 16,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+428,Thin-Jam Lock Nut 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+429,Thin-Jam Lock Nut 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+430,Thin-Jam Lock Nut 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+431,Thin-Jam Lock Nut 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+432,Thin-Jam Lock Nut 13,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+433,Thin-Jam Lock Nut 14,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+434,Thin-Jam Lock Nut 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+435,Thin-Jam Lock Nut 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+436,Thin-Jam Lock Nut 12,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+437,Thin-Jam Lock Nut 11,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+438,Lock Nut 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+439,Lock Nut 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+440,Lock Nut 16,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+441,Lock Nut 17,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+442,Lock Nut 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+443,Lock Nut 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+444,Lock Nut 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+445,Lock Nut 22,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+446,Lock Nut 23,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+447,Lock Nut 12,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+448,Lock Nut 13,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+449,Lock Nut 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+450,Lock Nut 10,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+451,Lock Nut 11,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+452,Lock Nut 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+453,Lock Nut 20,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+454,Lock Nut 21,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+455,Lock Nut 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+456,Lock Nut 14,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+457,Lock Nut 15,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+458,Lock Nut 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+459,Lock Nut 19,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+460,Lock Nut 18,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+461,Lock Ring,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+462,Lower Head Race,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+463,Lock Washer 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+464,Lock Washer 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+465,Lock Washer 10,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+466,Lock Washer 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+467,Lock Washer 13,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+468,Lock Washer 8,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+469,Lock Washer 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+470,Lock Washer 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+471,Lock Washer 12,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+472,Lock Washer 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+473,Lock Washer 9,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+474,Lock Washer 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+475,Lock Washer 11,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+476,Metal Angle,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+477,Metal Bar 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+478,Metal Bar 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+479,Metal Plate 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+480,Metal Plate 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+481,Metal Plate 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+482,Metal Sheet 2,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+483,Metal Sheet 3,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+484,Metal Sheet 7,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+485,Metal Sheet 4,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+486,Metal Sheet 5,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+487,Metal Sheet 6,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+488,Metal Sheet 1,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+489,Metal Tread Plate,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+490,LL Nipple,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+491,HL Nipple,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+492,Paint - Black,(none),No recent sales,60,0.0,-60.0,45,0.0,-45.0,0.0,0.0,14.0,0
+493,Paint - Red,(none),No recent sales,60,0.0,-60.0,45,0.0,-45.0,0.0,0.0,14.0,0
+494,Paint - Silver,(none),No recent sales,60,0.0,-60.0,45,0.0,-45.0,0.0,0.0,14.0,0
+495,Paint - Blue,(none),No recent sales,60,0.0,-60.0,45,0.0,-45.0,0.0,0.0,14.0,0
+496,Paint - Yellow,(none),No recent sales,60,0.0,-60.0,45,0.0,-45.0,0.0,0.0,14.0,0
+497,Pinch Bolt,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+504,Cup-Shaped Race,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+505,Cone-Shaped Race,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+506,Reflector,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+507,LL Mountain Rim,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+508,ML Mountain Rim,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+509,HL Mountain Rim,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+510,LL Road Rim,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+511,ML Road Rim,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+512,HL Road Rim,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+513,Touring Rim,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+514,LL Mountain Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+515,ML Mountain Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+516,HL Mountain Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+517,LL Road Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+518,ML Road Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+519,HL Road Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+520,LL Touring Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+521,ML Touring Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+522,HL Touring Seat Assembly,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+523,LL Spindle/Axle,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+524,HL Spindle/Axle,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+525,LL Shell,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+526,HL Shell,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+527,Spokes,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+528,Seat Lug,(none),No recent sales,1000,0.0,-1000.0,750,0.0,-750.0,0.0,0.0,14.0,0
+529,Stem,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+530,Seat Post,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+531,Steerer,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+532,Seat Stays,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,1.0,0
+533,Seat Tube,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+534,Top Tube,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+535,Tension Pulley,(none),No recent sales,800,0.0,-800.0,600,0.0,-600.0,0.0,0.0,14.0,0
+679,Rear Derailleur Cage,(none),No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+707,"Sport-100 Helmet, Red",Accessories,Large buffer above safety stock,4,165.0,161.0,3,487.0,484.0,10.707,18.187,30.0,0
+708,"Sport-100 Helmet, Black",Accessories,Large buffer above safety stock,4,500.0,496.0,3,2932.0,2929.0,10.905,20.272,223.0,0
+709,"Mountain Bike Socks, M",Clothing,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,30.0,0
+710,"Mountain Bike Socks, L",Clothing,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,30.0,0
+711,"Sport-100 Helmet, Blue",Accessories,Large buffer above safety stock,4,378.0,374.0,3,1929.0,1926.0,10.998,19.278,141.0,0
+712,AWC Logo Cap,Clothing,Large buffer above safety stock,4,223.0,219.0,3,607.0,604.0,12.796,24.671,30.0,0
+713,"Long-Sleeve Logo Jersey, S",Clothing,Large buffer above safety stock,4,,,3,,,1.107,2.223,,1
+714,"Long-Sleeve Logo Jersey, M",Clothing,Large buffer above safety stock,4,127.0,123.0,3,273.0,270.0,4.857,14.044,30.0,0
+715,"Long-Sleeve Logo Jersey, L",Clothing,Large buffer above safety stock,4,227.0,223.0,3,472.0,469.0,8.166,25.009,30.0,0
+716,"Long-Sleeve Logo Jersey, XL",Clothing,Large buffer above safety stock,4,83.0,79.0,3,186.0,183.0,3.416,9.101,30.0,0
+747,"HL Mountain Frame - Black, 38",Components,Slow-moving (over 6 months of stock),500,7.0,-493.0,375,9.0,-366.0,0.685,2.573,2.0,0
+748,"HL Mountain Frame - Silver, 38",Components,Slow-moving (over 6 months of stock),500,12.0,-488.0,375,15.0,-360.0,1.242,4.755,2.0,0
+749,"Road-150 Red, 62",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+750,"Road-150 Red, 44",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+751,"Road-150 Red, 48",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+752,"Road-150 Red, 52",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+753,"Road-150 Red, 56",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+754,"Road-450 Red, 58",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+755,"Road-450 Red, 60",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+756,"Road-450 Red, 44",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+757,"Road-450 Red, 48",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+758,"Road-450 Red, 52",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+759,"Road-650 Red, 58",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+760,"Road-650 Red, 60",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.03,0.294,4.0,0
+761,"Road-650 Red, 62",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.022,0.195,4.0,0
+762,"Road-650 Red, 44",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.027,0.23,4.0,0
+763,"Road-650 Red, 48",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.005,0.071,4.0,0
+764,"Road-650 Red, 52",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+765,"Road-650 Black, 58",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.016,0.122,4.0,0
+766,"Road-650 Black, 60",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+767,"Road-650 Black, 62",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+768,"Road-650 Black, 44",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+769,"Road-650 Black, 48",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.003,0.052,4.0,0
+770,"Road-650 Black, 52",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.014,0.163,4.0,0
+771,"Mountain-100 Silver, 38",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+772,"Mountain-100 Silver, 42",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+773,"Mountain-100 Silver, 44",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+774,"Mountain-100 Silver, 48",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+775,"Mountain-100 Black, 38",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+776,"Mountain-100 Black, 42",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+777,"Mountain-100 Black, 44",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+778,"Mountain-100 Black, 48",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+779,"Mountain-200 Silver, 38",Bikes,Slow-moving (over 6 months of stock),100,25.0,-75.0,75,39.0,-36.0,3.325,7.473,4.0,0
+780,"Mountain-200 Silver, 42",Bikes,Slow-moving (over 6 months of stock),100,22.0,-78.0,75,34.0,-41.0,2.947,6.472,4.0,0
+781,"Mountain-200 Silver, 46",Bikes,Slow-moving (over 6 months of stock),100,17.0,-83.0,75,29.0,-46.0,2.884,5.077,4.0,0
+782,"Mountain-200 Black, 38",Bikes,Slow-moving (over 6 months of stock),100,33.0,-67.0,75,51.0,-24.0,4.252,9.859,4.0,0
+783,"Mountain-200 Black, 42",Bikes,Slow-moving (over 6 months of stock),100,25.0,-75.0,75,40.0,-35.0,3.58,7.305,4.0,0
+784,"Mountain-200 Black, 46",Bikes,Slow-moving (over 6 months of stock),100,19.0,-81.0,75,32.0,-43.0,3.018,5.624,4.0,0
+785,"Mountain-300 Black, 38",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+786,"Mountain-300 Black, 40",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+787,"Mountain-300 Black, 44",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+788,"Mountain-300 Black, 48",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+789,"Road-250 Red, 44",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+790,"Road-250 Red, 48",Bikes,Slow-moving (over 6 months of stock),100,1.0,-99.0,75,2.0,-73.0,0.008,0.157,4.0,0
+791,"Road-250 Red, 52",Bikes,No recent sales,100,0.0,-100.0,75,0.0,-75.0,0.0,0.0,4.0,0
+792,"Road-250 Red, 58",Bikes,Slow-moving (over 6 months of stock),100,12.0,-88.0,75,17.0,-58.0,1.138,3.407,4.0,0
+793,"Road-250 Black, 44",Bikes,Slow-moving (over 6 months of stock),100,18.0,-82.0,75,26.0,-49.0,1.954,5.269,4.0,0
+794,"Road-250 Black, 48",Bikes,Slow-moving (over 6 months of stock),100,16.0,-84.0,75,24.0,-51.0,1.804,4.803,4.0,0
+795,"Road-250 Black, 52",Bikes,Slow-moving (over 6 months of stock),100,14.0,-86.0,75,20.0,-55.0,1.453,3.995,4.0,0
+796,"Road-250 Black, 58",Bikes,Slow-moving (over 6 months of stock),100,10.0,-90.0,75,15.0,-60.0,1.116,2.83,4.0,0
+797,"Road-550-W Yellow, 38",Bikes,Slow-moving (over 6 months of stock),100,17.0,-83.0,75,27.0,-48.0,2.33,5.148,4.0,0
+798,"Road-550-W Yellow, 40",Bikes,Slow-moving (over 6 months of stock),100,17.0,-83.0,75,25.0,-50.0,1.968,5.015,4.0,0
+799,"Road-550-W Yellow, 42",Bikes,Slow-moving (over 6 months of stock),100,14.0,-86.0,75,21.0,-54.0,1.741,4.009,4.0,0
+800,"Road-550-W Yellow, 44",Bikes,Slow-moving (over 6 months of stock),100,11.0,-89.0,75,17.0,-58.0,1.346,3.081,4.0,0
+801,"Road-550-W Yellow, 48",Bikes,Slow-moving (over 6 months of stock),100,19.0,-81.0,75,29.0,-46.0,2.333,5.564,4.0,0
+802,LL Fork,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+803,ML Fork,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+804,HL Fork,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+805,LL Headset,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+806,ML Headset,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+807,HL Headset,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+808,LL Mountain Handlebars,Components,Slow-moving (over 6 months of stock),500,9.0,-491.0,375,11.0,-364.0,1.099,5.064,1.0,0
+809,ML Mountain Handlebars,Components,Slow-moving (over 6 months of stock),500,12.0,-488.0,375,14.0,-361.0,1.809,6.751,1.0,0
+810,HL Mountain Handlebars,Components,Slow-moving (over 6 months of stock),500,6.0,-494.0,375,7.0,-368.0,0.576,3.145,1.0,0
+811,LL Road Handlebars,Components,Slow-moving (over 6 months of stock),500,5.0,-495.0,375,6.0,-369.0,0.217,2.834,1.0,0
+812,ML Road Handlebars,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+813,HL Road Handlebars,Components,Slow-moving (over 6 months of stock),500,7.0,-493.0,375,8.0,-367.0,0.721,4.03,1.0,0
+814,"ML Mountain Frame - Black, 38",Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,2.0,0
+815,LL Mountain Front Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+816,ML Mountain Front Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+817,HL Mountain Front Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+818,LL Road Front Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+819,ML Road Front Wheel,Components,Slow-moving (over 6 months of stock),500,1.0,-499.0,375,2.0,-373.0,0.005,0.105,1.0,0
+820,HL Road Front Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+821,Touring Front Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+822,"ML Road Frame-W - Yellow, 38",Components,Slow-moving (over 6 months of stock),500,10.0,-490.0,375,12.0,-363.0,0.976,4.171,2.0,0
+823,LL Mountain Rear Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+824,ML Mountain Rear Wheel,Components,Slow-moving (over 6 months of stock),500,1.0,-499.0,375,2.0,-373.0,0.011,0.209,1.0,0
+825,HL Mountain Rear Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+826,LL Road Rear Wheel,Components,Slow-moving (over 6 months of stock),500,1.0,-499.0,375,2.0,-373.0,0.005,0.071,1.0,0
+827,ML Road Rear Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+828,HL Road Rear Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+829,Touring Rear Wheel,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+841,"Men's Sports Shorts, S",Clothing,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,30.0,0
+842,"Touring-Panniers, Large",Accessories,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,30.0,0
+843,Cable Lock,Accessories,Large buffer above safety stock,4,,,3,,,0.003,0.052,,1
+844,Minipump,Accessories,No recent sales,4,,,3,,,0.0,0.0,,1
+845,Mountain Pump,Accessories,No recent sales,4,,,3,,,0.0,0.0,,1
+846,Taillights - Battery-Powered,Accessories,No recent sales,4,,,3,,,0.0,0.0,,1
+847,Headlights - Dual-Beam,Accessories,No recent sales,4,,,3,,,0.0,0.0,,1
+848,Headlights - Weatherproof,Accessories,No recent sales,4,,,3,,,0.0,0.0,,1
+849,"Men's Sports Shorts, M",Clothing,Large buffer above safety stock,4,1.0,-3.0,3,2.0,-1.0,0.005,0.105,30.0,0
+850,"Men's Sports Shorts, L",Clothing,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,30.0,0
+851,"Men's Sports Shorts, XL",Clothing,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,30.0,0
+852,"Women's Tights, S",Clothing,Large buffer above safety stock,4,6.0,2.0,3,10.0,7.0,0.044,0.381,74.0,0
+853,"Women's Tights, M",Clothing,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,74.0,0
+854,"Women's Tights, L",Clothing,Large buffer above safety stock,4,5.0,1.0,3,8.0,5.0,0.03,0.284,74.0,0
+855,"Men's Bib-Shorts, S",Clothing,Large buffer above safety stock,4,2.0,-2.0,3,3.0,0.0,0.005,0.105,74.0,0
+856,"Men's Bib-Shorts, M",Clothing,Large buffer above safety stock,4,4.0,0.0,3,7.0,4.0,0.027,0.243,74.0,0
+857,"Men's Bib-Shorts, L",Clothing,No recent sales,4,0.0,-4.0,3,0.0,-3.0,0.0,0.0,74.0,0
+858,"Half-Finger Gloves, S",Clothing,Large buffer above safety stock,4,91.0,87.0,3,215.0,212.0,4.109,10.051,30.0,0
+859,"Half-Finger Gloves, M",Clothing,Below safety stock - replenish,4,158.0,154.0,3,339.0,336.0,6.006,17.473,30.0,0
+860,"Half-Finger Gloves, L",Clothing,Large buffer above safety stock,4,59.0,55.0,3,133.0,130.0,2.453,6.516,30.0,0
+861,"Full-Finger Gloves, S",Clothing,Large buffer above safety stock,4,2.0,-2.0,3,3.0,0.0,0.019,0.181,30.0,0
+862,"Full-Finger Gloves, M",Clothing,Large buffer above safety stock,4,3.0,-1.0,3,4.0,1.0,0.025,0.234,30.0,0
+863,"Full-Finger Gloves, L",Clothing,Large buffer above safety stock,4,4.0,0.0,3,6.0,3.0,0.036,0.39,30.0,0
+864,"Classic Vest, S",Clothing,Large buffer above safety stock,4,318.0,314.0,3,640.0,637.0,10.704,35.155,30.0,0
+865,"Classic Vest, M",Clothing,Large buffer above safety stock,4,172.0,168.0,3,341.0,338.0,5.611,18.95,30.0,0
+866,"Classic Vest, L",Clothing,Large buffer above safety stock,4,10.0,6.0,3,27.0,24.0,0.546,1.039,30.0,0
+867,"Women's Mountain Shorts, S",Clothing,Large buffer above safety stock,4,241.0,237.0,3,497.0,494.0,8.506,26.648,30.0,0
+868,"Women's Mountain Shorts, M",Clothing,Large buffer above safety stock,4,69.0,65.0,3,158.0,155.0,2.958,7.525,30.0,0
+869,"Women's Mountain Shorts, L",Clothing,Large buffer above safety stock,4,230.0,226.0,3,477.0,474.0,8.218,25.424,30.0,0
+870,Water Bottle - 30 oz.,Accessories,Large buffer above safety stock,4,213.0,209.0,3,741.0,738.0,17.577,23.505,30.0,0
+871,Mountain Bottle Cage,Accessories,Large buffer above safety stock,4,69.0,65.0,3,229.0,226.0,5.321,7.607,30.0,0
+872,Road Bottle Cage,Accessories,Large buffer above safety stock,4,61.0,57.0,3,201.0,198.0,4.655,6.67,30.0,0
+873,Patch Kit/8 Patches,Accessories,Large buffer above safety stock,4,111.0,107.0,3,408.0,405.0,9.885,12.207,30.0,0
+874,"Racing Socks, M",Clothing,Large buffer above safety stock,4,112.0,108.0,3,231.0,228.0,3.947,12.29,30.0,0
+875,"Racing Socks, L",Clothing,Large buffer above safety stock,4,173.0,169.0,3,362.0,359.0,6.275,19.104,30.0,0
+876,Hitch Rack - 4-Bike,Accessories,Below safety stock - replenish,4,237.0,233.0,3,478.0,475.0,8.018,26.145,30.0,0
+877,Bike Wash - Dissolver,Accessories,Large buffer above safety stock,4,191.0,187.0,3,442.0,439.0,8.361,21.061,30.0,0
+878,Fender Set - Mountain,Accessories,Large buffer above safety stock,4,71.0,67.0,3,237.0,234.0,5.526,7.818,30.0,0
+879,All-Purpose Bike Stand,Accessories,Large buffer above safety stock,4,11.0,7.0,3,31.0,28.0,0.65,1.216,30.0,0
+880,Hydration Pack - 70 oz.,Accessories,Large buffer above safety stock,4,170.0,166.0,3,382.0,379.0,7.037,18.767,30.0,0
+881,"Short-Sleeve Classic Jersey, S",Clothing,Large buffer above safety stock,4,127.0,123.0,3,273.0,270.0,4.852,14.029,30.0,0
+882,"Short-Sleeve Classic Jersey, M",Clothing,Below safety stock - replenish,4,15.0,11.0,3,47.0,44.0,1.055,1.597,30.0,0
+883,"Short-Sleeve Classic Jersey, L",Clothing,Large buffer above safety stock,4,199.0,195.0,3,414.0,411.0,7.163,21.923,30.0,0
+884,"Short-Sleeve Classic Jersey, XL",Clothing,Large buffer above safety stock,4,265.0,261.0,3,556.0,553.0,9.671,29.236,30.0,0
+894,Rear Derailleur,Components,Slow-moving (over 6 months of stock),500,8.0,-492.0,375,9.0,-366.0,0.899,4.788,1.0,0
+907,Rear Brakes,Components,Slow-moving (over 6 months of stock),500,25.0,-475.0,375,34.0,-341.0,0.63,3.987,14.0,0
+908,LL Mountain Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,28.0,-472.0,375,40.0,-335.0,0.833,4.515,14.0,0
+909,ML Mountain Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,31.0,-469.0,375,50.0,-325.0,1.319,4.944,14.0,0
+910,HL Mountain Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,36.0,-464.0,375,55.0,-320.0,1.332,5.694,14.0,0
+911,LL Road Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,3.0,-497.0,375,4.0,-371.0,0.025,0.471,14.0,0
+912,ML Road Seat/Saddle,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,14.0,0
+913,HL Road Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,21.0,-479.0,375,26.0,-349.0,0.299,3.24,14.0,0
+914,LL Touring Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,17.0,-483.0,375,20.0,-355.0,0.203,2.724,14.0,0
+915,ML Touring Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,8.0,-492.0,375,11.0,-364.0,0.192,1.251,14.0,0
+916,HL Touring Seat/Saddle,Components,Slow-moving (over 6 months of stock),500,30.0,-470.0,375,46.0,-329.0,1.088,4.704,14.0,0
+921,Mountain Tire Tube,Accessories,Slow-moving (over 6 months of stock),500,77.0,-423.0,375,189.0,-186.0,7.98,12.391,14.0,0
+922,Road Tire Tube,Accessories,Slow-moving (over 6 months of stock),500,54.0,-446.0,375,140.0,-235.0,6.088,8.682,14.0,0
+923,Touring Tire Tube,Accessories,Slow-moving (over 6 months of stock),500,42.0,-458.0,375,96.0,-279.0,3.829,6.673,14.0,0
+928,LL Mountain Tire,Accessories,Slow-moving (over 6 months of stock),500,25.0,-475.0,375,56.0,-319.0,2.196,3.891,14.0,0
+929,ML Mountain Tire,Accessories,Slow-moving (over 6 months of stock),500,31.0,-469.0,375,73.0,-302.0,2.969,4.895,14.0,0
+930,HL Mountain Tire,Accessories,Slow-moving (over 6 months of stock),500,35.0,-465.0,375,87.0,-288.0,3.654,5.526,14.0,0
+931,LL Road Tire,Accessories,Slow-moving (over 6 months of stock),500,26.0,-474.0,375,64.0,-311.0,2.7,4.056,14.0,0
+932,ML Road Tire,Accessories,Slow-moving (over 6 months of stock),500,26.0,-474.0,375,61.0,-314.0,2.442,4.144,14.0,0
+933,HL Road Tire,Accessories,Slow-moving (over 6 months of stock),500,15.0,-485.0,375,46.0,-329.0,2.207,2.334,14.0,0
+934,Touring Tire,Accessories,Slow-moving (over 6 months of stock),500,26.0,-474.0,375,60.0,-315.0,2.412,4.163,14.0,0
+935,LL Mountain Pedal,Components,Slow-moving (over 6 months of stock),500,38.0,-462.0,375,54.0,-321.0,1.121,6.023,14.0,0
+936,ML Mountain Pedal,Components,Slow-moving (over 6 months of stock),500,28.0,-472.0,375,40.0,-335.0,0.855,4.393,14.0,0
+937,HL Mountain Pedal,Components,Slow-moving (over 6 months of stock),500,46.0,-454.0,375,75.0,-300.0,2.009,7.42,14.0,0
+938,LL Road Pedal,Components,Slow-moving (over 6 months of stock),500,49.0,-451.0,375,79.0,-296.0,2.13,7.925,14.0,0
+939,ML Road Pedal,Components,Slow-moving (over 6 months of stock),500,42.0,-458.0,375,66.0,-309.0,1.658,6.655,14.0,0
+940,HL Road Pedal,Components,Slow-moving (over 6 months of stock),500,46.0,-454.0,375,70.0,-305.0,1.694,7.403,14.0,0
+941,Touring Pedal,Components,Slow-moving (over 6 months of stock),500,18.0,-482.0,375,23.0,-352.0,0.351,2.832,14.0,0
+942,"ML Mountain Frame-W - Silver, 38",Components,Slow-moving (over 6 months of stock),500,1.0,-499.0,375,2.0,-373.0,0.016,0.314,2.0,0
+943,"LL Mountain Frame - Black, 40",Components,Slow-moving (over 6 months of stock),500,1.0,-499.0,375,2.0,-373.0,0.019,0.366,2.0,0
+944,"LL Mountain Frame - Silver, 40",Components,Slow-moving (over 6 months of stock),500,11.0,-489.0,375,14.0,-361.0,1.121,4.429,2.0,0
+945,Front Derailleur,Components,Slow-moving (over 6 months of stock),500,14.0,-486.0,375,17.0,-358.0,2.081,7.899,1.0,0
+946,LL Touring Handlebars,Components,Slow-moving (over 6 months of stock),500,3.0,-497.0,375,4.0,-371.0,0.129,1.681,1.0,0
+947,HL Touring Handlebars,Components,Slow-moving (over 6 months of stock),500,5.0,-495.0,375,6.0,-369.0,0.532,3.025,1.0,0
+948,Front Brakes,Components,Slow-moving (over 6 months of stock),500,49.0,-451.0,375,77.0,-298.0,1.987,7.851,14.0,0
+949,LL Crankset,Components,Slow-moving (over 6 months of stock),500,8.0,-492.0,375,10.0,-365.0,1.094,4.508,1.0,0
+950,ML Crankset,Components,Slow-moving (over 6 months of stock),500,4.0,-496.0,375,5.0,-370.0,0.143,1.837,1.0,0
+951,HL Crankset,Components,Slow-moving (over 6 months of stock),500,10.0,-490.0,375,12.0,-363.0,1.557,5.755,1.0,0
+952,Chain,Components,Slow-moving (over 6 months of stock),500,52.0,-448.0,375,81.0,-294.0,2.012,8.275,14.0,0
+953,"Touring-2000 Blue, 60",Bikes,Slow-moving (over 6 months of stock),100,22.0,-78.0,75,31.0,-44.0,2.124,6.597,4.0,0
+954,"Touring-1000 Yellow, 46",Bikes,Slow-moving (over 6 months of stock),100,23.0,-77.0,75,34.0,-41.0,2.53,6.767,4.0,0
+955,"Touring-1000 Yellow, 50",Bikes,Slow-moving (over 6 months of stock),100,15.0,-85.0,75,22.0,-53.0,1.7,4.312,4.0,0
+956,"Touring-1000 Yellow, 54",Bikes,Slow-moving (over 6 months of stock),100,9.0,-91.0,75,14.0,-61.0,1.072,2.696,4.0,0
+957,"Touring-1000 Yellow, 60",Bikes,Slow-moving (over 6 months of stock),100,26.0,-74.0,75,38.0,-37.0,2.903,7.577,4.0,0
+958,"Touring-3000 Blue, 54",Bikes,Slow-moving (over 6 months of stock),100,19.0,-81.0,75,27.0,-48.0,1.787,5.712,4.0,0
+959,"Touring-3000 Blue, 58",Bikes,Slow-moving (over 6 months of stock),100,12.0,-88.0,75,18.0,-57.0,1.253,3.565,4.0,0
+960,"Touring-3000 Blue, 62",Bikes,Slow-moving (over 6 months of stock),100,8.0,-92.0,75,11.0,-64.0,0.746,2.397,4.0,0
+961,"Touring-3000 Yellow, 44",Bikes,Slow-moving (over 6 months of stock),100,22.0,-78.0,75,31.0,-44.0,2.179,6.51,4.0,0
+962,"Touring-3000 Yellow, 50",Bikes,Slow-moving (over 6 months of stock),100,18.0,-82.0,75,26.0,-49.0,1.79,5.371,4.0,0
+963,"Touring-3000 Yellow, 54",Bikes,Slow-moving (over 6 months of stock),100,11.0,-89.0,75,16.0,-59.0,1.151,3.283,4.0,0
+964,"Touring-3000 Yellow, 58",Bikes,Slow-moving (over 6 months of stock),100,9.0,-91.0,75,13.0,-62.0,0.757,2.507,4.0,0
+965,"Touring-3000 Yellow, 62",Bikes,Slow-moving (over 6 months of stock),100,24.0,-76.0,75,33.0,-42.0,2.177,7.117,4.0,0
+966,"Touring-1000 Blue, 46",Bikes,Slow-moving (over 6 months of stock),100,22.0,-78.0,75,33.0,-42.0,2.585,6.44,4.0,0
+967,"Touring-1000 Blue, 50",Bikes,Slow-moving (over 6 months of stock),100,15.0,-85.0,75,22.0,-53.0,1.702,4.388,4.0,0
+968,"Touring-1000 Blue, 54",Bikes,Slow-moving (over 6 months of stock),100,10.0,-90.0,75,15.0,-60.0,1.096,2.95,4.0,0
+969,"Touring-1000 Blue, 60",Bikes,Slow-moving (over 6 months of stock),100,28.0,-72.0,75,40.0,-35.0,2.914,8.357,4.0,0
+970,"Touring-2000 Blue, 46",Bikes,Slow-moving (over 6 months of stock),100,13.0,-87.0,75,19.0,-56.0,1.395,3.717,4.0,0
+971,"Touring-2000 Blue, 50",Bikes,Slow-moving (over 6 months of stock),100,8.0,-92.0,75,12.0,-63.0,0.861,2.316,4.0,0
+972,"Touring-2000 Blue, 54",Bikes,Slow-moving (over 6 months of stock),100,25.0,-75.0,75,36.0,-39.0,2.61,7.409,4.0,0
+973,"Road-350-W Yellow, 40",Bikes,Slow-moving (over 6 months of stock),100,36.0,-64.0,75,51.0,-24.0,3.739,10.705,4.0,0
+974,"Road-350-W Yellow, 42",Bikes,Slow-moving (over 6 months of stock),100,21.0,-79.0,75,31.0,-44.0,2.385,6.1,4.0,0
+975,"Road-350-W Yellow, 44",Bikes,Slow-moving (over 6 months of stock),100,10.0,-90.0,75,16.0,-59.0,1.406,2.8,4.0,0
+976,"Road-350-W Yellow, 48",Bikes,Slow-moving (over 6 months of stock),100,38.0,-62.0,75,55.0,-20.0,4.095,11.505,4.0,0
+977,"Road-750 Black, 58",Bikes,Slow-moving (over 6 months of stock),100,16.0,-84.0,75,26.0,-49.0,2.325,4.819,4.0,0
+978,"Touring-3000 Blue, 44",Bikes,Slow-moving (over 6 months of stock),100,9.0,-91.0,75,12.0,-63.0,0.746,2.576,4.0,0
+979,"Touring-3000 Blue, 50",Bikes,Slow-moving (over 6 months of stock),100,23.0,-77.0,75,32.0,-43.0,2.135,6.848,4.0,0
+980,"Mountain-400-W Silver, 38",Bikes,Slow-moving (over 6 months of stock),100,7.0,-93.0,75,12.0,-63.0,1.099,2.093,4.0,0
+981,"Mountain-400-W Silver, 40",Bikes,Slow-moving (over 6 months of stock),100,15.0,-85.0,75,22.0,-53.0,1.604,4.45,4.0,0
+982,"Mountain-400-W Silver, 42",Bikes,Slow-moving (over 6 months of stock),100,7.0,-93.0,75,12.0,-63.0,1.001,2.054,4.0,0
+983,"Mountain-400-W Silver, 46",Bikes,Slow-moving (over 6 months of stock),100,8.0,-92.0,75,13.0,-62.0,1.044,2.302,4.0,0
+984,"Mountain-500 Silver, 40",Bikes,Slow-moving (over 6 months of stock),100,13.0,-87.0,75,18.0,-57.0,1.135,3.752,4.0,0
+985,"Mountain-500 Silver, 42",Bikes,Slow-moving (over 6 months of stock),100,13.0,-87.0,75,18.0,-57.0,1.154,3.729,4.0,0
+986,"Mountain-500 Silver, 44",Bikes,Slow-moving (over 6 months of stock),100,11.0,-89.0,75,15.0,-60.0,0.979,3.288,4.0,0
+987,"Mountain-500 Silver, 48",Bikes,Slow-moving (over 6 months of stock),100,13.0,-87.0,75,18.0,-57.0,1.187,3.755,4.0,0
+988,"Mountain-500 Silver, 52",Bikes,Slow-moving (over 6 months of stock),100,13.0,-87.0,75,19.0,-56.0,1.297,3.757,4.0,0
+989,"Mountain-500 Black, 40",Bikes,Slow-moving (over 6 months of stock),100,7.0,-93.0,75,10.0,-65.0,0.715,1.924,4.0,0
+990,"Mountain-500 Black, 42",Bikes,Slow-moving (over 6 months of stock),100,10.0,-90.0,75,14.0,-61.0,0.998,3.028,4.0,0
+991,"Mountain-500 Black, 44",Bikes,Slow-moving (over 6 months of stock),100,10.0,-90.0,75,14.0,-61.0,0.907,2.908,4.0,0
+992,"Mountain-500 Black, 48",Bikes,Slow-moving (over 6 months of stock),100,12.0,-88.0,75,17.0,-58.0,1.127,3.52,4.0,0
+993,"Mountain-500 Black, 52",Bikes,Slow-moving (over 6 months of stock),100,7.0,-93.0,75,10.0,-65.0,0.718,1.938,4.0,0
+994,LL Bottom Bracket,Components,Slow-moving (over 6 months of stock),500,9.0,-491.0,375,10.0,-365.0,0.959,5.147,1.0,0
+995,ML Bottom Bracket,Components,No recent sales,500,0.0,-500.0,375,0.0,-375.0,0.0,0.0,1.0,0
+996,HL Bottom Bracket,Components,Slow-moving (over 6 months of stock),500,9.0,-491.0,375,11.0,-364.0,1.395,5.138,1.0,0
+997,"Road-750 Black, 44",Bikes,Slow-moving (over 6 months of stock),100,11.0,-89.0,75,19.0,-56.0,1.763,3.096,4.0,0
+998,"Road-750 Black, 48",Bikes,Slow-moving (over 6 months of stock),100,33.0,-67.0,75,49.0,-26.0,3.942,9.759,4.0,0
+999,"Road-750 Black, 52",Bikes,Slow-moving (over 6 months of stock),100,26.0,-74.0,75,40.0,-35.0,3.399,7.866,4.0,0
