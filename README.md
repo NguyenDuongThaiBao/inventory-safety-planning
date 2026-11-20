@@ -2,7 +2,7 @@
 
 > An end-to-end Business Intelligence prototype (SQL Server ETL → dimensional data warehouse → Python data mining → Power BI) that replaces a uniform, hardcoded reorder policy with product-specific, demand-driven safety-stock recommendations.
 
-[![Open In Colab](https://colab.research.google.com/drive/16qpv-S1frscvvDClT6qt4fesgjyXG37k?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16qpv-S1frscvvDClT6qt4fesgjyXG37k)
 
 
 
@@ -102,6 +102,9 @@ Data quality, not modelling, dominated the effort. The most instructive issues:
 | 8 | **Date-validity defect in the SCD lookup** | The snapshot dated August 2014 resolved to a product version effective only in October 2026, importing a future policy value | The ETL join was corrected to match the *snapshot date* against each version's `EffectiveDate`–`ExpiryDate` window. A reusable `usp_Check_SCDIntegrity` procedure now returns no violations |
 | 9 | **Defects in incremental loading** | Purchase groups were not recomputed after a changed line; same-day policy changes; duplicate snapshots could double stock | Three fixes (upsert complete affected groups, one SCD version per product per day, latest-snapshot view), regression-tested on an isolated warehouse copy |
 
+**Total monthly demand across all products.** The artificial drops at the first (May 2011) and last (June 2014) months are partial-month artefacts, which is why both boundary months were removed before modelling.
+
+![Total monthly demand](images/00_total_demand.png)
 ---
 
 ## 4. Data Mining: Why Regression and K-means
@@ -127,6 +130,18 @@ The two techniques answer two *different* business questions, so they are comple
 | Linear Regression | 46.47 | 83.98 | 77.75% |
 | Random Forest | 37.46 | 70.45 | 62.68% |
 
+**Held-out test period: actual vs. predicted monthly demand**
+
+![Actual vs predicted](images/A1_test_actual_vs_predicted.png)
+
+**Random Forest feature importance.** Recent demand (`lag1`, `roll3`) dominates the signal.
+
+![Feature importance](images/A2_feature_importance.png)
+
+**Three-month-ahead forecast** (June to August 2014) from both the Random Forest and the moving average.
+
+![Forecast total](images/A3_forecast_total.png)
+
 **Takeaway.** The simple 3-month moving average beat both regression models on every metric, and Random Forest feature importance concentrated on `lag1` (~0.62) and `roll3` (~0.23): recent demand carries most of the signal. I therefore selected the baseline for the reorder demonstration instead of assuming the more complex model must be superior. The result is specific to this dataset and evaluation window; it does not generalise to "machine learning cannot help inventory forecasting".
 
 ### 4.2 Stock-health segmentation (K-means)
@@ -141,6 +156,14 @@ The two techniques answer two *different* business questions, so they are comple
 | Large buffer above safety stock | 38 | 10.00 (capped) | 50.0 |
 | Slow-moving | 119 | 1.54 | 199.8 |
 | *No recent sales (rule, not a cluster)* | 272 | n/a | n/a |
+
+**Choosing K.** The elbow method and silhouette score were evaluated for K = 2 to 8, and K = 3 was selected.
+
+![Choosing K](images/B1_choose_k.png)
+
+**Resulting stock-health segments** in coverage and days-of-supply space.
+
+![Product segments](images/B2_segments.png)
 
 ### 4.3 Statistical safety stock and reorder point
 
@@ -193,6 +216,10 @@ The Power BI report is designed around a planner's sequence of questions: *where
 | Current SS above statistical recommendation | 123 products, including all evaluated **Bikes** and **Components** |
 | 3-month reorder demonstration | **24 of 43** products need a reorder, ~7,553 units in total |
 | Recorded value in no-recent-sales stock | ~$8.29M (dashboard) |
+
+**Top products to reorder** (3-month forecast demand vs. current safety stock).
+
+![Reorder priority](images/C1_reorder_priority.png)
 
 The pattern is the actionable insight: the policy is not uniformly too high or too low. It is **mis-allocated**, leaving fast-selling accessories and apparel under-protected while heavy bikes and components carry buffers that exceed what their demand variability justifies.
 
