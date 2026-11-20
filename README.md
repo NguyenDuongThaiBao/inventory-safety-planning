@@ -2,7 +2,9 @@
 
 > An end-to-end Business Intelligence prototype (SQL Server ETL → dimensional data warehouse → Python data mining → Power BI) that replaces a uniform, hardcoded reorder policy with product-specific, demand-driven safety-stock recommendations.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR-USERNAME>/<YOUR-REPO>/blob/main/notebooks/Topic12_DataMining.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/16qpv-S1frscvvDClT6qt4fesgjyXG37k?usp=sharing)]
+
+
 
 **Context:** Final project for *Current Topics in Computer Science: Business Intelligence Systems and Analytics* (Vietnamese-German University), Group 8, Topic 12. The source system is **CompanyX**, an AdventureWorks-based SQL Server operational database of a bicycle manufacturer.
 
@@ -19,9 +21,6 @@
 5. [BI Dashboard Overview](#5-bi-dashboard-overview)
 6. [Key Results](#6-key-results)
 7. [Limitations and Honest Caveats](#7-limitations-and-honest-caveats)
-8. [Repository Structure](#8-repository-structure)
-9. [How to Reproduce](#9-how-to-reproduce)
-10. [Team](#10-team)
 
 ---
 
@@ -214,53 +213,6 @@ These are model outputs from a historical prototype, **not** demonstrated cost s
 
 ---
 
-## 8. Repository Structure
 
-```
-inventory-safety-planning/
-├── README.md
-├── notebooks/
-│   └── Topic12_DataMining.ipynb        # forecasting, K-means, statistical policy
-├── data/
-│   ├── monthly_demand2.csv             # one row per product-month (sales)
-│   └── datamining_input2.csv           # one row per product (stock, policy, lead time)
-├── outputs/                            # forecast.csv, product_segments.csv, reorder_priority.csv, ...
-├── sql/                                # ETL stored procedures, validation queries
-├── ssis/                               # SSIS project (control flow)
-├── powerbi/                            # .pbix dashboard
-├── report/
-│   └── Final-Report-Group-8.pdf        # full project report
-└── images/
-    └── bi-dashboard-overview.png
-```
-
----
-
-## 9. How to Reproduce
-
-**Data mining (no SQL Server required)**
-
-1. Open `notebooks/Topic12_DataMining.ipynb` in Google Colab (badge above).
-2. Upload `monthly_demand2.csv` and `datamining_input2.csv` when prompted.
-3. Run all cells (*Runtime → Run all*). Results are written to `mining_outputs/`: `model_comparison.csv`, `forecast.csv`, `cluster_profile.csv`, `product_segments.csv`, `reorder_priority.csv`, `recommended_policy.csv`, plus the charts.
-
-**Full pipeline:** restore the CompanyX (AdventureWorks-based) database in SQL Server, execute the scripts in `sql/` and run `usp_RunETL` (or the SSIS package). Re-exporting the monthly-demand view requires access to the source database, because `vw_MonthlyDemand` reads the operational sales tables.
-
----
-
-## 10. Team
-
-Group 8, Vietnamese-German University. Supervisor: Dr. Phan Trong Nhan.
-
-| Member | Focus |
-|---|---|
-| Võ Thành Vinh | Report consolidation; database and ETL review and validation |
-| Trần Nguyễn Lâm | Data warehouse and ETL implementation; analytical exports |
-| Nguyễn Phan Tùng Lâm | Data mining and forecasting |
-| Nguyễn Dương Thái Bảo | Data mining and analytical outputs |
-| Huỳnh Phạm Đức Trí | Power BI dashboard; analytical requirements |
-| Nguyễn Thiên Phúc | Power BI dashboard; business use-case documentation |
-
-<!-- If your name is in this table, add yourself/adjust your focus. Remove names if the teammates prefer not to be listed. -->
 
 *Data source: AdventureWorks-based CompanyX sample database provided for coursework. AI assistance in drafting and code review is disclosed in the full project report.*
