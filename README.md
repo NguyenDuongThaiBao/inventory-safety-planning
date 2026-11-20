@@ -2,7 +2,7 @@
 
 > An end-to-end Business Intelligence prototype (SQL Server ETL → dimensional data warehouse → Python data mining → Power BI) that replaces a uniform, hardcoded reorder policy with product-specific, demand-driven safety-stock recommendations.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16qpv-S1frscvvDClT6qt4fesgjyXG37k)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NguyenDuongThaiBao/inventory-safety-planning/blob/main/notebooks/Topic12_DataMining.ipynb)
 
 
 
